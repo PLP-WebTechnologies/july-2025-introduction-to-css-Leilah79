@@ -1,0 +1,23 @@
+p {
+    font-size: 30px;;
+    color:blue;
+}
+
+#heading-two{
+    font-size: 20px;
+    color:green;
+
+    .text-center{
+        text-align: center;
+    }
+    * {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 20px;
+        font weight: lighter;
+        text-transform: 5px;
+        line-height: 1.6;
+
+    }
+    . text-highlight{
+        background-color: yellow;
+    }
